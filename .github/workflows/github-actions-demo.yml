@@ -1,0 +1,8 @@
+name: demo
+on: [pull_request]
+jobs: 
+  do:
+    runs-on: ubuntu-latest
+    steps:
+      - name: xd
+        
